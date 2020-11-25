@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, 👋 I am Huy Nguyen
+
+- 😄 Pronouns: */hu-wee/*
+
+- 🔭 I am excited about CAMERA/LIDAR/ROBOT CALIBRATION, ROBOTIC MANIPULATION, PERCEPTION and MACHINE LEARNING. ✨
+
+
+
 
 <!--
 **dinhhuy2109/dinhhuy2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
