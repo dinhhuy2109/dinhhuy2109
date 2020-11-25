@@ -1,8 +1,8 @@
-### Hi there, 👋 I am Huy Nguyen
-
-- 😄 Pronouns: */hu-wee/*
+### Hi there, 👋
 
 - 🔭 I am excited about CAMERA/LIDAR/ROBOT CALIBRATION, ROBOTIC MANIPULATION, PERCEPTION and MACHINE LEARNING. ✨
+
+- 📫 Visit my [*personal website*](https://sites.google.com/view/huy-nguyen) to know more about me and some of my projects 
 
 
 
